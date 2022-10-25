@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lsposed_scope" >
+        <item>com.microsoft.office.excel</item>
+        <item>com.microsoft.office.word</item>
+        <item>com.microsoft.office.powerpoint</item>
+        <item>com.microsoft.office.officehubrow</item>
+        <item>com.microsoft.office.onenote</item>
+    </string-array>
+    <integer name="xposedminversion">80</integer>
+    <string name="xposeddescription">让微硬365系列觉得我们的屏幕不到10寸</string>
+    <bool name="xposedmodule">true</bool>
+</resources>
